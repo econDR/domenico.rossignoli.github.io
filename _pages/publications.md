@@ -15,11 +15,11 @@ nav_order: 2
 
 {% bibliography --file papers --query @book %}
 
-**Journal Articles**
+<b>Journal Articles</b>
 
 {% bibliography --file papers --query @article %}
 
-**Book Chapters**
+<b>Book Chapters</b>
 
 {% bibliography --file papers --query @inbook %}
 
