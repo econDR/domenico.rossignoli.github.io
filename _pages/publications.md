@@ -11,19 +11,13 @@ nav_order: 2
 
 <div class="publications">
 
+### Books
+{% bibliography --file papers --query @book %}
+
 ### Journal Articles
 {% bibliography --file papers --query @article %}
 
 ### Book Chapters
-{% bibliography --file papers --query @incollection %}
-
-### Working Papers
-{% bibliography --file papers --query @unpublished %}
-
-### Conference Papers
-{% bibliography --file papers --query @conference %}
-
-### Other Publications
-{% bibliography --file papers --query @misc %}
+{% bibliography --file papers --query @inbook %}
 
 </div>
