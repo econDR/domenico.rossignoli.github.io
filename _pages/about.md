@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Largo Gemelli, 1 - 20123</p>
+  more_info: |
+    <p>Largo Gemelli, 1 – 20123</p>
     <p>Milan, Italy</p>
     <p>+39 02 7234 2470</p>
 
