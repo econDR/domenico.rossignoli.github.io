@@ -11,6 +11,16 @@ on:
       - main
 
 jobs:
+  format:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install --save-dev prettier
+      - run: npx prettier . --write
   check:
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
