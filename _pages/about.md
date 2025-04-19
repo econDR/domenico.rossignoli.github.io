@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://docenti.unicatt.it/ppd2/en/docenti/26508/domenico-rossignoli/profilo'>Università Cattolica del Sacro Cuore, Milano</a>. domenico.rossignoli@unicatt.it
+subtitle: "<a href='https://docenti.unicatt.it/ppd2/en/docenti/26508/domenico-rossignoli/profilo'>Università Cattolica del Sacro Cuore, Milano</a>."
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: |
-    <p>Largo Gemelli, 1 – 20123</p>
+  more_info: >
+    <p>Largo Gemelli, 1 - 20123</p>
     <p>Milan, Italy</p>
     <p>+39 02 7234 2470</p>
+    <p>domenico.rossignoli [at] unicatt.it</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -32,4 +33,3 @@ I hold an MSc in Political Science and Political Economy from the London School 
 My research focuses on the effects of institutions on economic and political outcomes, mostly from a historical perspective (Historical Political Economy), and also explores behavioral mechanisms using methods from Microeconomics, Behavioral, and Experimental Economics.<br><br>
 I am a member of the Editorial Board of <a href="https://www.nature.com/palcomms/editorialboard">Nature: Humanities and Social Sciences Communications</a>.<br>
 I also serve on the Editorial Board of <i>La Società</i>.
-
