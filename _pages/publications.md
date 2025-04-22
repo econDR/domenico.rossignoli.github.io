@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-# {% include bib_search.liquid %}
+{% comment %} {% include bib_search.liquid %} {% endcomment %}
 
 <div class="publications">
 
