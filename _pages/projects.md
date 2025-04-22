@@ -3,7 +3,7 @@ layout: page
 title: personal
 permalink: /personal/
 description: A collection of personal projects, ideas and more.
-nav: true
+nav: false
 nav_order: 6
 display_categories: [work, fun]
 horizontal: false
