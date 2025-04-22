@@ -18,12 +18,12 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
-          bundler-cache: true
+          bundler-cache: false   # Disattiviamo il cache per sicurezza
 
       - name: Install dependencies
         run: |
-          bundle config set --local path 'vendor/bundle'
           bundle config set --local frozen false
+          bundle config set --local path 'vendor/bundle'
           bundle install
 
       - name: Build site
