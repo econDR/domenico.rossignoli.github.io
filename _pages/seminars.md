@@ -21,12 +21,12 @@ nav_order: 3
 
 <p class="seminar-section-title">Organized Seminars and Conferences</p>
 Since <b>Fall 2021</b>  
-<a href="https://dipartimenti.unicatt.it/diseis-dipartimento-di-economia-internazionale-delle-istituzioni-e-dello-sviluppo-diseis-eventi">Work in Progress Seminar in Political Economy (WIP)</a> at DISES and DEF, Università Cattolica del Sacro Cuore, Milano.<br>
+<a href="https://dipartimenti.unicatt.it/diseis-dipartimento-di-economia-internazionale-delle-istituzioni-e-dello-sviluppo-diseis-eventi">Work in Progress Seminar in Political Economy (WIP)</a> at DISES and DEF, Università Cattolica del Sacro Cuore, Milano. Joint with Davide Cipullo, Tommaso Colussi and Federico Trombetta.<br>
 
 <b>2023</b><br>
 
 <div class="seminar-entry">
-  <a href="https://dipartimenti.unicatt.it/economia-finanza-notizie-first-unicatt-political-economy-workshop">1st UniCatt Political Economy Workshop</a> at DISEIS and DEF, Università Cattolica del Sacro Cuore.
+  <a href="https://dipartimenti.unicatt.it/economia-finanza-notizie-first-unicatt-political-economy-workshop">1st UniCatt Political Economy Workshop</a> at DISEIS and DEF, Università Cattolica del Sacro Cuore, Milano. Joint with Davide Cipullo, Tommaso Colussi and Federico Trombetta.
 </div>
 <div class="seminar-entry">
   <a href="https://www.siepweb.it/siep/wp/it/xxxv-conferenza-siep-2023/call-for-papers/">XXXV Conference SIEP 2023</a>, at Università degli Studi di Verona. Member of Scientific Committee.
