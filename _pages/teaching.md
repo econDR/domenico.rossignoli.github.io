@@ -43,6 +43,6 @@ Member of the Faculty Board, <i>PhD Program in Institutions and Politics</i>
 
 <p class="teaching-section-title">Past courses and collaborations</p>
 <div class="teaching-entry">
-<b>Analisi della Pubblica Opinione</b>, <i>BSc in Communication and Society</i> (Co-taught with F. Pagnoncelli)
+<b>Analisi della Pubblica Opinione</b>, <i>BSc in Communication and Society</i> (Co-taught with F. Pagnoncelli); <br>
 Instructor for <b>Principles of Economics (Micro)</b> – Prof. M. A. Maggioni, <b>Istituzioni di Economia Politica</b> – Prof. G. Merzoni
 </div>
