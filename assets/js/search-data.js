@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-seminars-amp-conferences",
           title: "Seminars &amp; Conferences",
           description: "",
@@ -36,6 +29,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/work/";
+          },
+        },{id: "nav-personal",
+          title: "personal",
+          description: "A collection of personal projects, ideas and more.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/personal/";
           },
         },{id: "post-a-post-with-plotly-js",
         
