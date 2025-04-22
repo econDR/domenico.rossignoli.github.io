@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='https://docenti.unicatt.it/ppd2/en/docenti/26508/domenico-rossignoli/profilo'>Università Cattolica del Sacro Cuore, Milano</a>."
+subtitle: "<a href='https://docenti.unicatt.it/ppd2/en/docenti/26508/domenico-rossignoli/profilo'>Università Cattolica del Sacro Cuore, Milano</a>. <br><p>domenico.rossignoli [at] unicatt.it</p>"
 
 profile:
   align: right
@@ -12,7 +12,6 @@ profile:
     <p>Largo Gemelli, 1 - 20123</p><br>
     <p>Milan, Italy</p><br>
     <p>+39 02 7234 2470</p><br>
-    <p>domenico.rossignoli [at] unicatt.it</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
