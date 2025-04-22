@@ -23,4 +23,8 @@ nav_order: 2
 
 {% bibliography --file papers --query @inbook %}
 
+<b>Other articles and contributions</b>
+
+{% bibliography --file papers --query @misc %}
+
 </div>
