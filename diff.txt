@@ -1,0 +1,34 @@
+diff --git a/_config.yml b/_config.yml
+index 50e5acf..0d2b732 100644
+--- a/_config.yml
++++ b/_config.yml
+@@ -4,12 +4,12 @@
+ 
+ title: blank # the website title (if blank, full name will be used instead)
+ first_name: Domenico
+-middle_name: 
++middle_name:
+ last_name: Rossignoli
+ # contact_note: >
+-  # You can even add a little note about which of these is the best way to reach you.
++# You can even add a little note about which of these is the best way to reach you.
+ # description: > # the ">" symbol means to ignore newlines until "footer_text:"
+-  # My personal academic webpage. Based on [*folio](https://github.com/bogoli/-folio) design.
++# My personal academic webpage. Based on [*folio](https://github.com/bogoli/-folio) design.
+ footer_text: >
+   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+ keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+diff --git a/_data/socials.yml b/_data/socials.yml
+index 9a5afb8..cf4f655 100644
+--- a/_data/socials.yml
++++ b/_data/socials.yml
+@@ -46,6 +46,6 @@ x_username: "@d_rossignoli"
+ # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+ # zotero_username: # your zotero username
+ # custom_social: # can be any name here other than the ones already defined above
+-  # logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+-  # title: Custom Social
+-  # url: https://www.alberteinstein.com/
++# logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
++# title: Custom Social
++# url: https://www.alberteinstein.com/
