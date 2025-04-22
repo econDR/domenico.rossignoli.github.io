@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-seminars-amp-conferences",
-          title: "Seminars &amp; Conferences",
+          title: "seminars &amp; conferences",
           description: "",
           section: "Navigation",
           handler: () => {
