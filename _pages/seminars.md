@@ -43,11 +43,11 @@ Since <b>Fall 2021</b>
 <b>2023</b><br>
 
 <div class="seminar-entry">
-  FARE Department Seminar, University of Guelph, Ontario, Canada. Paper presented (with C. Marconi): _Crediting the Poor. The effect of Italian Monti di Pietà on social capital_.
+  FARE Department Seminar, University of Guelph, Ontario, Canada. Paper presented (with C. Marconi): <i>Crediting the Poor. The effect of Italian Monti di Pietà on social capital</i>.
 </div>
 <div class="seminar-entry">
-  Research Seminars: Economic History, Growth and Development, Martin-Luther-Universität Halle-Wittenberg. Paper presented (with F. Trombetta): _The Cross and the Sword Religious identity, land ownership and conflict in early modern Italy_.
+  Research Seminars: Economic History, Growth and Development, Martin-Luther-Universität Halle-Wittenberg. Paper presented (with F. Trombetta): <i>The Cross and the Sword Religious identity, land ownership and conflict in early modern Italy</i>.
 </div>
 <div class="seminar-entry">
-  NoBeC Talk 2023, Norms and Behavioral Change, Penn University (online). Paper presented (with M. A. Maggioni): _Communication and Cooperation in Strategic Human-Robot Interactions_.
+  NoBeC Talk 2023, Norms and Behavioral Change, Penn University (online). Paper presented (with M. A. Maggioni): <i>Communication and Cooperation in Strategic Human-Robot Interactions</i>.
 </div>
