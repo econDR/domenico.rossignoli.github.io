@@ -21,28 +21,28 @@ nav_order: 5
 
 <p class="teaching-section-title">Current courses at Università Cattolica del Sacro Cuore</p>
 <div class="teaching-entry">
-**Democracy, Institutions and Economic Development**, _BSc in Political Science and International Relations_ – English track - Milan Campus 
+<b>Democracy, Institutions and Economic Development</b>, <i>BSc in Political Science and International Relations</i> – English track - Milan Campus 
 </div>
 <div class="teaching-entry">
-**Principles of Economics (Macro Module)**, _BSc in Political Science and International Relations_ – English track - Milan Campus 
+<b>Principles of Economics (Macro Module)</b>, <i>BSc in Political Science and International Relations</i> – English track - Milan Campus 
 </div>
 <div class="teaching-entry">
-**Istituzioni di Economia Politica**,  _BSc in Social Work_ – Brescia Campus (Co-taught with Prof. T. E. Uberti)
+<b>Istituzioni di Economia Politica</b>,  <i>BSc in Social Work</i> – Brescia Campus (Co-taught with Prof. T. E. Uberti)
 </div>
 <div class="teaching-entry">
-**Institutions, Democracy and Development, Master in International Cooperation and Development, ASERI, Università Cattolica del Sacro Cuore
+<b>Institutions, Democracy and Development, Master in International Cooperation and Development</b>, ASERI, Università Cattolica del Sacro Cuore
 </div>
   
 <p class="teaching-section-title">PhD Program </p>
 <div class="teaching-entry">
-**Research methods for social sciences**, _PhD Program in Institutions and Politics_, Università Cattolica del Sacro Cuore, Milano. (Co-taught with F. Trombetta)
+<b>Research methods for social sciences</b>, <i>PhD Program in Institutions and Politics</i>, Università Cattolica del Sacro Cuore, Milano. (Co-taught with F. Trombetta)
 </div>
 <div class="teaching-entry">
-Member of the Faculty Board, _PhD Program in Institutions and Politics_
+Member of the Faculty Board, <i>PhD Program in Institutions and Politics</i>
 </div>
 
 <p class="teaching-section-title">Past courses and collaborations</p>
 <div class="teaching-entry">
-**Analisi della Pubblica Opinione**, _BSc in Communication and Society_ (Co-taught with F. Pagnoncelli)
-Instructor for **Principles of Economics (Micro)** – Prof. M. A. Maggioni, **Istituzioni di Economia Politica** – Prof. G. Merzoni
+<b>Analisi della Pubblica Opinione</b>, <i>BSc in Communication and Society</i> (Co-taught with F. Pagnoncelli)
+Instructor for <b>Principles of Economics (Micro)</b> – Prof. M. A. Maggioni, <b>Istituzioni di Economia Politica</b> – Prof. G. Merzoni
 </div>
