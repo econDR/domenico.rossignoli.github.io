@@ -2,7 +2,7 @@
 layout: page
 title: "work in progress"
 permalink: /work/
-nav: true
+nav: false
 nav_order: 3
 ---
 
