@@ -12,7 +12,7 @@ profile:
     <p>Largo Gemelli, 1 - 20123</p><br>
     <p>Milan, Italy</p><br>
     <p>+39 02 7234 2470</p><br>
-    <p><a href="[https://www.overleaf.com/download/project/646e456ce4e4b64456b4ccf7/build/1965dce0b41-668e210ef8f68321/output/output.pdf?compileGroup=priority&clsiserverid=clsi-pre-emp-c2d-c-f-45wj&enable_pdf_caching=true&popupDownload=true" target="_blank">📄 <b>Link to my CV (PDF)</b></a></p>
+    <p><a href="https://www.overleaf.com/download/project/646e456ce4e4b64456b4ccf7/build/1965dce0b41-668e210ef8f68321/output/output.pdf?compileGroup=priority&clsiserverid=clsi-pre-emp-c2d-c-f-45wj&enable_pdf_caching=true&popupDownload=true" target="_blank">📄 <b>Link to my CV (PDF)</b></a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
