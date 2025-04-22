@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Seminars & Conferences"
+title: "seminars & conferences"
 permalink: /seminars/
 nav: true
 nav_order: 3
