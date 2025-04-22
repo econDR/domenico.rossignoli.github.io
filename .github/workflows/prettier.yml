@@ -68,6 +68,7 @@ jobs:
           git diff -- . ':(exclude)package-lock.json' ':(exclude)package.json' > diff.txt
           npm install -g diff2html-cli
           diff2html -i file -s side -F diff.html -- diff.txt
+          rm -f diff.html
 
       - name: Commit Prettier fixes
         if: ${{ failure() && steps.prettier.conclusion == 'failure' }}
