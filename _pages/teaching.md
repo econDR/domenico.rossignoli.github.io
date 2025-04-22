@@ -35,12 +35,7 @@ nav_order: 5
 <div class="teaching-entry">
   
 <div class="teaching-entry">
-**Istituzioni di Economia Politica**,  _BSc in Social Work_ – Brescia Campus (Co-taught with Prof. T. E. Uberti)
-</div>
-<div class="teaching-entry">
-
-<div class="teaching-entry">
-**IInstitutions, Democracy and Development, Master in International Cooperation and Development, ASERI, Università Cattolica del Sacro Cuore
+**Institutions, Democracy and Development, Master in International Cooperation and Development, ASERI, Università Cattolica del Sacro Cuore
 </div>
 <div class="teaching-entry">
   
