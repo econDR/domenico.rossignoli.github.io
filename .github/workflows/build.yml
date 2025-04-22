@@ -18,7 +18,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
-          bundler-cache: false   # Disattiviamo il cache per sicurezza
+          bundler-cache: false   # Importante: disattiva il caching
 
       - name: Install dependencies
         run: |
