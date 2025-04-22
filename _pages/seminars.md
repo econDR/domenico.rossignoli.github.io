@@ -24,6 +24,7 @@ Since <b>Fall 2021</b>
 <a href="https://dipartimenti.unicatt.it/diseis-dipartimento-di-economia-internazionale-delle-istituzioni-e-dello-sviluppo-diseis-eventi">Work in Progress Seminar in Political Economy (WIP)</a> at<br>
 
 <b>2023</b><br>
+
 <div class="seminar-entry">
   <a href="https://dipartimenti.unicatt.it/economia-finanza-notizie-first-unicatt-political-economy-workshop">1st UniCatt Political Economy Workshop</a> at DISEIS and DEF, Università Cattolica del Sacro Cuore.
 </div>
@@ -34,11 +35,13 @@ Since <b>Fall 2021</b>
 <p class="seminar-section-title">Invited Seminars</p>
 
 <b>2024</b><br>
+
 <div class="seminar-entry">
   International workshop: <i>Un enfoque de bien común en materia de desarrollo</i>, Universidad Popular Autónoma del Estado de Puebla (UPAEP). Invited expert.
 </div>
 
 <b>2023</b><br>
+
 <div class="seminar-entry">
   FARE Department Seminar, University of Guelph, Ontario, Canada. Paper presented (with C. Marconi): _Crediting the Poor. The effect of Italian Monti di Pietà on social capital_.
 </div>
