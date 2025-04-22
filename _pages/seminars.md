@@ -21,7 +21,7 @@ nav_order: 3
 
 <p class="seminar-section-title">Organized Seminars and Conferences</p>
 Since <b>Fall 2021</b>  
-<a href="https://dipartimenti.unicatt.it/diseis-dipartimento-di-economia-internazionale-delle-istituzioni-e-dello-sviluppo-diseis-eventi">Work in Progress Seminar in Political Economy (WIP)</a> at<br>
+<a href="https://dipartimenti.unicatt.it/diseis-dipartimento-di-economia-internazionale-delle-istituzioni-e-dello-sviluppo-diseis-eventi">Work in Progress Seminar in Political Economy (WIP)</a> at DISES and DEF, Università Cattolica del Sacro Cuore, Milano.<br>
 
 <b>2023</b><br>
 
