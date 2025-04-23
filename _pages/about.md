@@ -12,7 +12,7 @@ profile:
     <p>Largo Gemelli, 1 - 20123</p><br>
     <p>Milan, Italy</p><br>
     <p>+39 02 7234 2470</p><br>
-    <p><a href="https://github.com/econDR/cv-public/blob/main/cv-main.pdf" target="_blank">📄 <b>Link to my CV (PDF)</b></a></p>
+    <p><a href="https://cdn.jsdelivr.net/gh/econDR/cv-public@main/cv-main.pdf" target="_blank">📄 <b>Link to my CV (PDF)</b></a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
